@@ -88,18 +88,23 @@ footer {
   font-size: 35px;
 }
 
-
+ /* logo start  */
 .linkedin-logo {
-  content: 'e900';
+  content: "\e900";
   font-family: icomoon;
 }
 
 .gmail-logo {
-  content: 'e901';
+  content: "\e901";
   font-family: icomoon;
 }
 
 .github-logo {
-  content: 'eab0';
+  content: "\eab0";
+  font-family: icomoon;
+}
+
+.medium-logo {
+  content: "\e902";
   font-family: icomoon;
 }

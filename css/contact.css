@@ -1,26 +1,12 @@
 .contact {
-background-color: pink;
-text-align: center;
+  background-color: pink;
+  /* background-color: #c72e45; */
+  text-align: center;
 }
 
 .contact ul li {
-    padding: 10px 0;
+  padding: 10px 0;
 }
 .contact ul li a {
-    font-size: 40px;
+  font-size: 40px;
 }
-
-.linkedin-logo {
-    content: 'e900';
-    font-family: icomoon;
-  }
-  
-  .gmail-logo {
-    content: 'e901';
-    font-family: icomoon;
-  }
-  
-  .github-logo {
-    content: 'eab0';
-    font-family: icomoon;
-  }
