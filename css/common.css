@@ -40,7 +40,7 @@ body {
 .topnav {
   height: 60px;
   line-height: 60px;
-  background-color: black;
+  background-color: #ff7473;
 }
 
 .topnav ul li {
@@ -50,7 +50,7 @@ body {
 }
 
 .topnav ul li:hover {
-  border-bottom: 2px solid orange;
+  border-bottom: 2px solid #ffc952;
 }
 
 .topnav ul li a {
@@ -64,50 +64,42 @@ body {
 
 /* footer  */
 footer {
-  position: relative;
-  background-color: #111111;
+  background-color: #ff7473;
 }
 
-.copyright {
-  width: 1200px;
+.footer-box {
   text-align: center;
   margin: 0 auto;
+  padding-bottom: 20px ;
 }
 
-.copyright img {
-  width: 200px;
+.footer-box img {
+  width: 160px;
+  height: 80px;
+  margin: 20px 0;
 }
 
-.copyright ul li,
-.copyright ul li a {
-  font-size: 12px;
-  font-weight: 700;
-  margin: 30px 0;
-  color: #7e7e7e;
+.footer-box ul li {
+  display: inline;
 }
 
-.copyright ul li a {
-  text-decoration: underline;
-  margin: 0 5px;
+.footer-box ul li a {
+  margin: 0 15px;
+  font-size: 35px;
 }
 
-.teen {
-  height: 180px;
-  padding-top: 20px;
-  padding-left: 450px;
+
+.linkedin-logo {
+  content: 'e900';
+  font-family: icomoon;
 }
 
-.teen img {
-  float: left;
-  margin-right: 6px;
-}
-.teen ul {
-  float: left;
+.gmail-logo {
+  content: 'e901';
+  font-family: icomoon;
 }
 
-.teen ul li {
-  font-size: 14px;
-  font-weight: 700;
-  color: #efefef;
-  padding: 0;
+.github-logo {
+  content: 'eab0';
+  font-family: icomoon;
 }

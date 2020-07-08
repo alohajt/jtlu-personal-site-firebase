@@ -1,3 +1,29 @@
-img {
-  height: 300px;
+/* banner start  */
+
+.my-info {
+  width: 70%;
+  margin: 0 auto;
+  /* background-color: antiquewhite; */
+  border-bottom: 2px solid #000;
+}
+
+.my-info img {
+  float: right;
+  height: 330px;
+  width: 290px;
+  padding-top: 60px;
+}
+
+.my-info-content {
+  float: left;
+  width: 480px;
+  height: 400px;
+  /* background-color: pink; */
+  padding-top: 90px;
+}
+
+.my-info-content ul li {
+  /* background-color: yellow; */
+  margin: 10px 0;
+  text-align: center;
 }
