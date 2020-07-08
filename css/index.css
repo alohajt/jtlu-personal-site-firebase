@@ -1,10 +1,13 @@
-/* banner start  */
+.project a {
+  background-color: #a6172d !important;
+}
 
+/* banner start  */
 .my-info {
   width: 70%;
   margin: 0 auto;
   /* background-color: antiquewhite; */
-  border-bottom: 2px solid #000;
+  border-bottom: 2px solid #181842;
 }
 
 .my-info img {
@@ -26,4 +29,38 @@
   /* background-color: yellow; */
   margin: 10px 0;
   text-align: center;
+}
+
+/* project start  */
+.project {
+  padding: 30px 0;
+}
+.project table {
+  height: 400px;
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  border-collapse:collapse; 
+  /* background-color: pink; */
+  
+}
+
+.project table .title {
+  height: 30px;
+}
+
+.project table tr {
+  height: 20px;
+  
+  /* background-color: yellow; */
+}
+
+.project table tr td,
+.project table tr th {
+  border: 2px solid #c72e45;
+} 
+
+.project table tr td {
+  padding: 10px;
+  /* background-color: yellow; */
 }

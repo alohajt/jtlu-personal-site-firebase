@@ -40,7 +40,7 @@ body {
 .topnav {
   height: 60px;
   line-height: 60px;
-  background-color: #ff7473;
+  background-color: #181842;
 }
 
 .topnav ul li {
@@ -50,7 +50,7 @@ body {
 }
 
 .topnav ul li:hover {
-  border-bottom: 2px solid #ffc952;
+  border-bottom: 3px solid #d3e0f7;
 }
 
 .topnav ul li a {
@@ -64,7 +64,7 @@ body {
 
 /* footer  */
 footer {
-  background-color: #ff7473;
+  background-color: #181842;
 }
 
 .footer-box {
