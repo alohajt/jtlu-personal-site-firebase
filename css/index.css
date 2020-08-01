@@ -31,6 +31,23 @@
   text-align: center;
 }
 
+
+/* contact start  */
+.contact {
+  background-color: #181842;
+  /* background-color: #c72e45; */
+  text-align: center;
+  margin: 10px auto;
+}
+
+.contact ul li {
+  padding: 10px 0;
+}
+.contact ul li a {
+  font-size: 40px;
+}
+/* contact end  */
+
 /* project start  */
 .project {
   padding: 30px 0;
@@ -51,7 +68,6 @@
 
 .project table tr {
   height: 20px;
-  
   /* background-color: yellow; */
 }
 
